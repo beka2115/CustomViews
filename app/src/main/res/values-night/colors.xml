@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="gray_black">#181818</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="visible_loading">#33000000</color>
+    <color name="blue">#2799C8</color>
+    <color name="blue_20">#332799C8</color>
+    <color name="blue_item_rule">#262799C8</color>
+    <color name="nothing">#002799C8</color>
+    <color name="yellow">#F4A460</color>
+    <color name="rating_yellow">#FFD700</color>
+    <color name="grey">#666666</color>
+    <color name="shimmer">#99666666</color>
+    <color name="light_gray">#AAAAAA</color>
+    <color name="red">#FF3636</color>
+    <color name="statistic_green">#32CD32</color>
+    <color name="red_50">#80FF3636</color>
+    <color name="orange">#FF6636</color>
+    <color name="invisible_orange">#80FF6636</color>
+    <color name="active_card_id_stroke">#FFD700</color>
+    <color name="active_card_id_background">#26FFD700</color>
+    <color name="past_card_id_stroke">#7D7D7D</color>
+    <color name="past_card_id_background">#BFBFBF</color>
+    <color name="search_location_icon">#DADCE0</color>
+    <color name="divider_color">#4D000000</color>
+    <color name="profile_button_color">#1AFFC122</color>
+    <color name="green">#4EA923</color>
+    <color name="salat">#32CD32</color>
+    <color name="profiler_grey_color">#1A000000</color>
+    <color name="alert_cancel_booking">#101828</color>
+    <color name="alert_cancel_booking_btn_back">#D0D5DD</color>
+    <color name="alert_cancel_booking_tv_back">#344054</color>
+    <color name="color_default">#DCDCDC</color>
+    <color name="colorPrimary">#F5F5F5</color>
+    <color name="end_blue">#9747FF</color>
+    <color name="end_orange">#FFC100</color>
+
+    <color name="white_vendor_profile">#B3FFFFFF</color>
+    <color name="user_comment_background">#DCDCDC</color>
+    <color name="btn_busy">#FF6636</color>
+    <color name="response_hot_price_stroke">#999999</color>
+
+    <color name="diagram_text">#828282</color>
+    <color name="diagram_line">#E0E0E0</color>
+    <color name="diagram_line_yellow">#FFD700</color>
+    <color name="map_stroke_color">#80000000</color>
+    <color name="blue_statistic_stroke">#2799C8</color>
+    <color name="blue_statistic_background">#1A2799C8</color>
+    <color name="statistic_btn">#EBEBEB</color>
+    <color name="statistic_desc">#999999</color>
+
+    <color name="ripple_material_light">#1f000000</color>
+</resources>
